@@ -1,0 +1,46 @@
+{
+  "frame": "00010.jpg",
+  "method": "kmeans",
+  "seed": 42,
+  "roi_file": "D:\\FIT Courses\\CSE 5695 ML Eng\\ALINA_New\\outputs\\gmm\\vidd_1_roi.txt",
+  "yellow": {
+    "lower_hsv": [
+      13,
+      47,
+      104
+    ],
+    "upper_hsv": [
+      25,
+      85,
+      134
+    ]
+  },
+  "white": {
+    "lower_hsv": [
+      0,
+      0,
+      152
+    ],
+    "upper_hsv": [
+      179,
+      34,
+      175
+    ]
+  },
+  "details": {
+    "method": "kmeans",
+    "seed": 42,
+    "cluster_selection": {
+      "yellow": {
+        "selected_cluster": 5,
+        "selected_color_pixels": 70,
+        "reference_purity": 0.1897
+      },
+      "white": {
+        "selected_cluster": 7,
+        "selected_color_pixels": 468,
+        "reference_purity": 0.975
+      }
+    }
+  }
+}

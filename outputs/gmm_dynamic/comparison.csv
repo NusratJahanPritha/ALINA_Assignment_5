@@ -1,0 +1,2 @@
+video,frames,fixed_labeled,dynamic_labeled,fixed_label_rate_pct,dynamic_label_rate_pct,label_rate_difference_pp,fixed_alina_ms_per_frame,dynamic_alina_ms_per_frame,dynamic_roi_ms_per_frame,dynamic_total_ms_per_frame,mean_consecutive_roi_iou
+vidd_1,50,49,50,98,100,2,3745.76,3527.62,458.84,3986.46,0.9701

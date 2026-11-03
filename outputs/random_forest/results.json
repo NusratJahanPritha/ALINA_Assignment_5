@@ -1,0 +1,83 @@
+{
+  "training_seconds": 1.1319,
+  "results": [
+    {
+      "video": "vidd_1",
+      "status": "success",
+      "first_frame": "00001.jpg",
+      "image_width": 3840,
+      "image_height": 2160,
+      "inference_seconds": 1.1826,
+      "roi_points": [
+        [
+          1279.199951171875,
+          2156.0
+        ],
+        [
+          1589.0400390625,
+          972.0
+        ],
+        [
+          3034.9599609375,
+          972.0
+        ],
+        [
+          3344.800048828125,
+          2156.0
+        ]
+      ]
+    },
+    {
+      "video": "vidd_2",
+      "status": "success",
+      "first_frame": "00001.jpg",
+      "image_width": 1920,
+      "image_height": 1080,
+      "inference_seconds": 1.0518,
+      "roi_points": [
+        [
+          635.5999755859375,
+          1078.0
+        ],
+        [
+          798.02001953125,
+          486.0
+        ],
+        [
+          1555.97998046875,
+          486.0
+        ],
+        [
+          1718.4000244140625,
+          1078.0
+        ]
+      ]
+    },
+    {
+      "video": "vidd_3",
+      "status": "success",
+      "first_frame": "18970.jpg",
+      "image_width": 1920,
+      "image_height": 1080,
+      "inference_seconds": 1.0699,
+      "roi_points": [
+        [
+          729.5999755859375,
+          1078.0
+        ],
+        [
+          907.8599853515625,
+          486.0
+        ],
+        [
+          1739.739990234375,
+          486.0
+        ],
+        [
+          1918.0,
+          1078.0
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+video,frames_labeled,total_frames,frame_labeling_rate_percent,average_processing_time_ms
+vidd_1,50,50,100,3558.18
+vidd_2,49,50,98,487.02
+vidd_3,20,50,40,208.56

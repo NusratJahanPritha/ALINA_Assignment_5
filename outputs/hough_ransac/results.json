@@ -1,0 +1,86 @@
+[
+  {
+    "video": "vidd_1",
+    "status": "success",
+    "first_frame": "00001.jpg",
+    "image_width": 3840,
+    "image_height": 2160,
+    "inference_seconds": 0.098,
+    "hough_segments": 49,
+    "ransac_inlier_points": 324,
+    "roi_points": [
+      [
+        0.0,
+        2156.0
+      ],
+      [
+        515.0277099609375,
+        972.0
+      ],
+      [
+        2918.490234375,
+        972.0
+      ],
+      [
+        3433.51806640625,
+        2156.0
+      ]
+    ]
+  },
+  {
+    "video": "vidd_2",
+    "status": "success",
+    "first_frame": "00001.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "inference_seconds": 0.0789,
+    "hough_segments": 161,
+    "ransac_inlier_points": 329,
+    "roi_points": [
+      [
+        295.6000061035156,
+        1068.5703125
+      ],
+      [
+        538.9600219726562,
+        486.0
+      ],
+      [
+        1674.6400146484375,
+        486.0
+      ],
+      [
+        1918.0,
+        1068.5703125
+      ]
+    ]
+  },
+  {
+    "video": "vidd_3",
+    "status": "success",
+    "first_frame": "18970.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "inference_seconds": 0.0788,
+    "hough_segments": 168,
+    "ransac_inlier_points": 352,
+    "roi_points": [
+      [
+        295.6000061035156,
+        1076.0
+      ],
+      [
+        538.9600219726562,
+        486.0
+      ],
+      [
+        1674.6400146484375,
+        486.0
+      ],
+      [
+        1918.0,
+        1076.0
+      ]
+    ]
+  }
+]

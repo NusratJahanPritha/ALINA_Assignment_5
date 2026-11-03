@@ -1,0 +1,10 @@
+{
+  "method": "kmeans",
+  "video": "vidd_1",
+  "seed": 42,
+  "roi_file": "D:\\FIT Courses\\CSE 5695 ML Eng\\ALINA_New\\outputs\\gmm\\vidd_1_roi.txt",
+  "processed_frames": 50,
+  "frames_with_yellow_thresholds": 50,
+  "frames_with_white_thresholds": 50,
+  "average_processing_time_ms": 198.04
+}
