@@ -1,4 +1,4 @@
-# Assignment 5: ML-Based Taxiway Marking Detection Using ALINA
+# Assignment 5: 
 
 ## 1. Project Overview
 
